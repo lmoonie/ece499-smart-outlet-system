@@ -8,13 +8,12 @@
   border: none;
 }
 
-#banner .fork {
-  background-color: #ffb682;
-}
-
 #banner #logo {
-  background: url(../images/logo.png);
-  background-size: contain;
+  height: 0px;
+  width: 0px;
+  right: 0px;
+  top: 0px;
+  background: none;
 }
 
 header {
