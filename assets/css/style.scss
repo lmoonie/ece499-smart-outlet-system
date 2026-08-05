@@ -8,8 +8,16 @@
   border: none;
 }
 
+#banner .fork {
+  background-color: #ffb682
+}
+
+#banner #logo {
+  background: url(/assets/images/logo.png)
+}
+
 header {
-  background: #d0e0e3;
+  background: #77c5d3;
 }
 
 header h1 {
