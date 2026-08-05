@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Smart Outlet System
 description: A UVic engineering project for ECE 499
+show_downloads: true
