@@ -9,11 +9,12 @@
 }
 
 #banner .fork {
-  background-color: #ffb682
+  background-color: #ffb682;
 }
 
 #banner #logo {
-  background: url(/assets/images/logo.png)
+  background: url(../images/logo.png);
+  background-size: contain;
 }
 
 header {
