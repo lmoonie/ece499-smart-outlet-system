@@ -25,6 +25,13 @@ We would like to thank the Chair of the Electrical and Computer Engineering Depa
 Finally, we would like to thank our family and friends for their encouragement, patience, and support throughout this project. Their encouragement helped us stay motivated from start to finish.
 
 # Links
+<a href="./assets/images/Project_Poster.pdf" target="_blank">
+  Project Poster
+</a>
 
+<br>
+
+<a hr
 # Code
+Include code here
 
