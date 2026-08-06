@@ -1,4 +1,7 @@
-- write something here
+this is some text.
+
+
+
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
 - **Olivia Moonie:** Software Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system, and completed project documentation.
@@ -20,7 +23,6 @@ We would also like to sincerely thank the Department Technical Staff, Brent Sirn
 We would like to thank our instructor and teaching assistant, Sana Shuja and Maryam Ahang, for their guidance, feedback, and support throughout the course. We also appreciate the support of the ECS Makerspace for providing access to the tools and facilities needed to build and test our prototype.
 We would like to thank the Chair of the Electrical and Computer Engineering Department, Dr. Michael McGuire, for supporting our undergraduate capstone projects through departmental funding.
 Finally, we would like to thank our family and friends for their encouragement, patience, and support throughout this project. Their encouragement helped us stay motivated from start to finish.
-
 
 # Links
 
