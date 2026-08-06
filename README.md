@@ -13,8 +13,17 @@ this is some text.
 # Design
   The way that the first facet is addressed is by hosting all of the data is stored on the users device, rather than a central server, so the only person who can access the data is the user. The second facet is managed in two connected methods. The first is the system itself, acting as a smart device that allows other non-smart devices to act as Pseudo-Smart devices. The second method in which the second facet is addressed is by utilizing PLC. With this system, the consumers have freedom to decide how many of the smart outlets they want, such as a single outlet, up to an entire house. Using PLC rather than a traditional communication method like Wifi or Bluetooth, is significantly more modular. Systems that communicate via traditional methods either require individual setup, which is a pain, or a full retrofit of the outlets, to allow a mesh network to be formed. Since the PLC communicates over already existing infrastructure, and does not require a mesh network, not only can it be partially adopted, the system can also be used to connect to out-buildings, or multiple buildings on a property, as it has a significant range. 
 
+  The prototype enclosure was designed to house the hub and outlet circuitry while providing access for wiring, ventilation, the receptacle, LED, and push button.
+</p>
+
+<img src="./assets/images/Prototype.jpg"
+     style="display: block; margin: 20px auto; width: 100%; max-width: 900px;">
+
 # Results
   The project resulted in the design, assembly, and testing of a smart outlet prototype. Custom PCBs, power electronics, and 3D-printed enclosures were successfully designed and manufactured, and the hardware was evaluated through extensive testing. Although reliable Power Line Communication (PLC) between the hub and outlet was not achieved within the project timeline, the project identified key challenges and provides a strong foundation for future development.
+
+<img src="./assets/images/Testing.jpg"
+     style="display: block; margin: 20px auto; width: 60%; max-width: 700px;">
 
 # Acknowledgments
 We would like to thank everyone who supported us throughout this project.
@@ -31,7 +40,11 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 <br>
 
-<a hr
+<a href="https://www.egbc.ca/complaints-discipline/code-of-ethics" target="_blank">
+  EGBC Code of Ethics
+</a>
+
 # Code
+
 Include code here
 
