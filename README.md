@@ -1,4 +1,12 @@
-This is some text.
+<p align="center">
+  <img src="assets/images/logo.png" width="60">
+</p>
+
+<h1 align="center">Smart Outlet System</h1>
+
+<p align="center">
+  A UVic Engineering Capstone Project for ECE 499
+</p>
 
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
