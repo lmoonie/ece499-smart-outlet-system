@@ -6,7 +6,7 @@
 
 <p align="center">
   A UVic Engineering Capstone Project for ECE 499
-</p>
+</p> 
 
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
