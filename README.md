@@ -1,9 +1,9 @@
 This is some text.
 
 # About the Team
-- Chris James:
-- Olivia Moonie:
-- Colette Reimer:
+- Chris James: Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
+- Olivia Moonie: Software Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system.
+- Colette Reimer: Electrical Engineering student at the University of Victoria. Colette worked on the electrical hardware design, PCB assembly and testing, enclosure design in Fusion 360, and project documentation.
 
 # Background
   The purpose of this project is multifaceted. The first facet is protecting private data from companies that own the technology.  The second facet of this problem is making smart devices more accessible and affordable. The third facet of the problem is similar to the second, in that it is geared towards making smart devices more affordable.
@@ -12,7 +12,7 @@ This is some text.
   The way that the first facet is addressed is by hosting all of the data is stored on the users device, rather than a central server, so the only person who can access the data is the user. The second facet is managed in two connected methods. The first is the system itself, acting as a smart device that allows other non-smart devices to act as Pseudo-Smart devices. The second method in which the second facet is addressed is by utilizing PLC. With this system, the consumers have freedom to decide how many of the smart outlets they want, such as a single outlet, up to an entire house. Using PLC rather than a traditional communication method like Wifi or Bluetooth, is significantly more modular. Systems that communicate via traditional methods either require individual setup, which is a pain, or a full retrofit of the outlets, to allow a mesh network to be formed. Since the PLC communicates over already existing infrastructure, and does not require a mesh network, not only can it be partially adopted, the system can also be used to connect to out-buildings, or multiple buildings on a property, as it has a significant range. 
 
 # Results
-
+  The project resulted in the design, assembly, and testing of a smart outlet prototype. Custom PCBs, power electronics, and 3D-printed enclosures were successfully designed and manufactured, and the hardware was evaluated through extensive testing. Although reliable Power Line Communication (PLC) between the hub and outlet was not achieved within the project timeline, the project identified key challenges and provides a strong foundation for future development.
 
 # Acknowledgments
 We would like to thank everyone who supported us throughout this project.
