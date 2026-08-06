@@ -35,14 +35,10 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 ## Project Resources
 
-- **Final Project Report**  
-  https://github.com/lmoonie/ece499-smart-outlet-system/blob/main/assets/images/Final_Report.pdf
-
 - **Project Poster**  
   https://github.com/lmoonie/ece499-smart-outlet-system/blob/main/assets/images/Project_Poster.pdf
 
 - **Source Code**  
-  https://github.com/lmoonie/ece499-smart-outlet-system/tree/main/Code
 
 ## References
 
