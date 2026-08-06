@@ -1,9 +1,9 @@
 This is some text.
 
 # About the Team
-- Chris James: Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
-- Olivia Moonie: Software Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system.
-- Colette Reimer: Electrical Engineering student at the University of Victoria. Colette worked on the electrical hardware design, PCB assembly and testing, enclosure design in Fusion 360, and project documentation.
+- **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
+- **Olivia Moonie:** Software Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system, and completed project documentation.
+- **Colette Reimer:** Electrical Engineering student at the University of Victoria. Colette worked on the electrical hardware design, PCB assembly and testing, and completed the enclosure design in Fusion 360..
 
 # Background
   The purpose of this project is multifaceted. The first facet is protecting private data from companies that own the technology.  The second facet of this problem is making smart devices more accessible and affordable. The third facet of the problem is similar to the second, in that it is geared towards making smart devices more affordable.
@@ -25,6 +25,21 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 # Links
 
+## Project Resources
+
+- **Final Project Report**  
+  https://github.com/lmoonie/ece499-smart-outlet-system/blob/main/Documentation/Final_Report.pdf
+
+- **Project Poster**  
+  https://github.com/lmoonie/ece499-smart-outlet-system/blob/main/Documentation/Project_Poster.pdf
+
+- **Source Code**  
+  https://github.com/lmoonie/ece499-smart-outlet-system/tree/main/Code
+
+## References
+
+- **Engineers and Geoscientists BC – Code of Ethics**  
+  https://www.egbc.ca/complaints-discipline/code-of-ethics
 
 # Code
 
