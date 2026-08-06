@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="assets/images/logo.png" width="60">
-</p>
-
-<h1 align="center">Smart Outlet System</h1>
-
-<p align="center">
-  A UVic Engineering Capstone Project for ECE 499
-</p> 
-
+- write something here
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
 - **Olivia Moonie:** Software Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system, and completed project documentation.
@@ -32,18 +23,6 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 
 # Links
-
-## Project Resources
-
-- **Project Poster**  
-  https://github.com/lmoonie/ece499-smart-outlet-system/blob/main/assets/images/Project_Poster.pdf
-
-- **Source Code**  
-
-## References
-
-- **Engineers and Geoscientists BC – Code of Ethics**  
-  https://www.egbc.ca/complaints-discipline/code-of-ethics
 
 # Code
 
