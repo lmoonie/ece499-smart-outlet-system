@@ -4,6 +4,8 @@ Additionally, most existing systems use mesh networks to facilitate communicatio
 
 The use of Wireguard allows the user to securely control and monitor their outlets from anywhere in the world with very little latency [4]. While peer-to-peer networking is possible for the savvy user to configure, a relay server provides an easy-to-use and reliable backup [5].
 
+The original idea for this project came from an ECE 399 project created in fall 2024[6].
+
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
 - **Olivia Moonie:** Computer Engineering student at the University of Victoria. Olivia developed the embedded software used to control and monitor the smart outlet system and completed project documentation.
@@ -19,6 +21,8 @@ The prototype enclosure was designed to house the hub and outlet circuitry while
 
 <img src="./assets/images/Prototype.jpg"
      style="display: block; margin: 20px auto; width: 100%; max-width: 900px;">
+
+The circuits utilized on the PCBs were developed using the manufacturer provided circuits [7,8].
 
 # Results
 The project resulted in the design, assembly, and testing of a smart outlet prototype. Custom PCBs, power electronics, and 3D-printed enclosures were successfully designed and manufactured, and the hardware was evaluated through extensive testing. Although reliable Power Line Communication (PLC) between the hub and outlet was not achieved within the project timeline, the project identified key challenges and provides a strong foundation for future development.
