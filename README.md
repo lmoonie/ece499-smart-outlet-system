@@ -10,10 +10,12 @@ The use of Wireguard allows the user to securely control and monitor their outle
 - **Colette Reimer:** Electrical Engineering student at the University of Victoria. Colette worked on the electrical hardware design, PCB assembly and testing, and completed the enclosure design in Fusion 360.
 
 # Design
-The way that the first facet is addressed is by hosting all of the data is stored on the users device, rather than a central server, so the only person who can access the data is the user. The second facet is managed in two connected methods. The first is the system itself, acting as a smart device that allows other non-smart devices to act as Pseudo-Smart devices. The second method in which the second facet is addressed is by utilizing PLC. With this system, the consumers have freedom to decide how many of the smart outlets they want, such as a single outlet, up to an entire house. Using PLC rather than a traditional communication method like Wifi or Bluetooth, is significantly more modular. Systems that communicate via traditional methods either require individual setup, which is a pain, or a full retrofit of the outlets, to allow a mesh network to be formed. Since the PLC communicates over already existing infrastructure, and does not require a mesh network, not only can it be partially adopted, the system can also be used to connect to out-buildings, or multiple buildings on a property, as it has a significant range. 
+The outlet is responsible for toggling power to its load and measuring power consumption. It sends this data to an internet-connected hub in the home over PLC. The hub passes along power consumption data and receives toggle requests from the user over the internet. The connection is secured by Wireguard VPN. 
 
-  The prototype enclosure was designed to house the hub and outlet circuitry while providing access for wiring, ventilation, the receptacle, LED, and push button.
-</p>
+<img src="./assets/images/software_overview.png"
+     style="display: block; margin: 20px auto; width: 100%; max-width: 900px;">
+
+The prototype enclosure was designed to house the hub and outlet circuitry while providing access for wiring, ventilation, the receptacle, LED, and push button.
 
 <img src="./assets/images/Prototype.jpg"
      style="display: block; margin: 20px auto; width: 100%; max-width: 900px;">
@@ -37,13 +39,21 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 # References
 [1]   C. Lien, Y. Bai, and M. Lin, “Remote-Controllable Power Outlet System for Home Power Management”, IEEE Transactions on Consumer Electronics, vol.53, no. 4, pp. 1634-1641, Nov. 2007, doi: 10.1109/TCE.2007.4429263.
+
 [2]   A.S. Musleh, M. Debouza, M. Farook, “Design and implementation of smart plug: An Internet of Things (IoT) approach,” IEEE, Jan. 2018, doi: 10.1109/ICECTA.2017.8252033
+
 [3]   P. Goyal, “Design of Power-Line Communication System (PLC) Using a PIC Microcontroller,” International Conference on Information & Communication Technology (IICT), DIT University, India, July 2007
+
 [4]   S. Zakhary, T. Lodge, D. McAuley. “Performance Evaluation for Privacy-preserving Control of Domestic IoT Devices,” 2022. [Online]. Available: https://arxiv.org/abs/2207.08482
-[5]   J. Whited. “WireGuard Endpoint Discovery and NAT Traversal using DNS-SD.” May 20, 2020. [Online]. Available: https://www.jordanwhited.com/posts/                                    wireguard-endpoint-discovery-nat-traversal/
+
+[5]   J. Whited. “WireGuard Endpoint Discovery and NAT Traversal using DNS-SD.” May 20, 2020. [Online]. Available: https://www.jordanwhited.com/posts/ wireguard-endpoint-discovery-nat-traversal/
 
 # Links
-<a href="./assets/images/Project_Poster.pdf" target="_blank">
+<a href="./assets/documents/Project_Report.pdf" target="_blank">
+  Project Report
+</a>
+
+<a href="./assets/documents/Project_Poster.pdf" target="_blank">
   Project Poster
 </a>
 
@@ -55,5 +65,4 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 # Code
 
-Include code here
 
