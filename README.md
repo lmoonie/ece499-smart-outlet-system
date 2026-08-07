@@ -48,6 +48,12 @@ Finally, we would like to thank our family and friends for their encouragement, 
 
 [5]   J. Whited. “WireGuard Endpoint Discovery and NAT Traversal using DNS-SD.” May 20, 2020. [Online]. Available: https://www.jordanwhited.com/posts/ wireguard-endpoint-discovery-nat-traversal/
 
+[6]   L. Henry, C. James, A. Kervin, O. Moonie, A. Mooltazeem, “Smart Outlets for Your Home", 2024, Unpublished
+
+[7]   TDA5051A Home automation modem, Rev. 5 (2011). NXP Semiconductors, Accessed: July 26, 2026. [Online]. Available: https://www.mouser.ca/datasheet/3/118/1/TDA5051A.pdf 
+
+[8]   Single Phase Energy Meter IC with Integrated Oscillator for Socket, Shanghai Belling, Accessed: July 26, 2026. [Online]. Available: https://www.belling.com.cn/media/file_object/bel_product/BL0937B/datasheet/BL0937B_V1.0_en.pdf 
+
 # Links
 <!-- <a href="./assets/documents/Project_Report.pdf" target="_blank">
   Project Report
