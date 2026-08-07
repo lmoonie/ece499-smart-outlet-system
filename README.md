@@ -59,7 +59,7 @@ Finally, we would like to thank our family and friends for their encouragement, 
 [8]   Single Phase Energy Meter IC with Integrated Oscillator for Socket, Shanghai Belling, Accessed: July 26, 2026. [Online]. Available: https://www.belling.com.cn/media/file_object/bel_product/BL0937B/datasheet/BL0937B_V1.0_en.pdf 
 
 # Links
-<a href="./assets/documents/Project_Report.pdf" target="_blank">
+<a href="./assets/documents/Final_Report.pdf" target="_blank">
   Project Report
 </a>
 
