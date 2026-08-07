@@ -63,8 +63,6 @@ Finally, we would like to thank our family and friends for their encouragement, 
   Project Poster
 </a>
 
-<br>
-
 <a href="https://www.egbc.ca/complaints-discipline/code-of-ethics" target="_blank">
   EGBC Code of Ethics
 </a>
