@@ -4,7 +4,7 @@ Additionally, most existing systems use mesh networks to facilitate communicatio
 
 The use of Wireguard allows the user to securely control and monitor their outlets from anywhere in the world with very little latency [4]. While peer-to-peer networking is possible for the savvy user to configure, a relay server provides an easy-to-use and reliable backup [5].
 
-The original idea for this project came from an ECE 399 project created in fall 2024[6].
+The original idea for this project came from an ECE 399 project created in fall 2024 [6].
 
 # About the Team
 - **Chris James:** Electrical Engineering student at the University of Victoria. Chris led the electrical hardware development, including schematic design, PCB layout, assembly, and testing.
