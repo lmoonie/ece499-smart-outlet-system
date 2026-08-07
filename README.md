@@ -49,9 +49,9 @@ Finally, we would like to thank our family and friends for their encouragement, 
 [5]   J. Whited. “WireGuard Endpoint Discovery and NAT Traversal using DNS-SD.” May 20, 2020. [Online]. Available: https://www.jordanwhited.com/posts/ wireguard-endpoint-discovery-nat-traversal/
 
 # Links
-<a href="./assets/documents/Project_Report.pdf" target="_blank">
+<!-- <a href="./assets/documents/Project_Report.pdf" target="_blank">
   Project Report
-</a>
+</a> -->
 
 <a href="./assets/documents/Project_Poster.pdf" target="_blank">
   Project Poster
